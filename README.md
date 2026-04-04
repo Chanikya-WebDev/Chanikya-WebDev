@@ -19,8 +19,7 @@ Full-Stack Developer and AI/ML Engineer with hands-on experience building produc
 - Designed and shipped multi-stage RAG pipelines with live web retrieval and LLM synthesis
 - Built autonomous debugging agents using ReAct loops, Docker sandboxing, and Git automation
 - Developed high-traffic Next.js platforms serving 600+ weekly active users
-- Strong foundation in compiler design, embedded systems, and theory of computation
-- Based in Andhra Pradesh, India · Open to remote collaboration
+- Open to remote collaboration
 
 ---
 
